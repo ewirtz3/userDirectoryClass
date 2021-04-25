@@ -4,6 +4,6 @@ export default class Employee {
   }
 
   getResults() {
-    console.log(this.results);
+    console.log("Employee method:", this.results);
   }
 }
